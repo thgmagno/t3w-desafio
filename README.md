@@ -4,6 +4,16 @@ Este desafio técnico tem como objetivo avaliar suas habilidades de programaçã
 
 ---
 
+### Como criar o repositório
+
+1. Faça o **fork** do repositório.
+2. Torne o repositório **privado**.
+3. Adicione os seguintes usuários ao repositório:
+    - [JefersonSantos06](https://github.com/JefersonSantos06)
+    - [fincatto](https://github.com/fincatto)
+
+---
+
 ## Tarefas
 
 1. **Alterar script de criação de banco de dados**:
